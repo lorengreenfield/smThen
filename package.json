@@ -1,0 +1,24 @@
+{
+  "name": "smthen",
+  "version": "0.1.0",
+  "description": "Wrap hapi.js server methods with a Promise. Requires Node.js 5+. ( Uses spread operator )",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorengreenfield/smThen.git"
+  },
+  "keywords": [
+    "hapi.js",
+    "Promise",
+    "server method"
+  ],
+  "author": "Loren Greenfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorengreenfield/smThen/issues"
+  },
+  "homepage": "https://github.com/lorengreenfield/smThen#readme"
+}
